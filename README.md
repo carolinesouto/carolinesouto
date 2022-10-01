@@ -4,13 +4,14 @@
 - 👩‍🔬 Estudando Data Science e Analytics na USP (MBA USP-Esalq) ...
 - 📧 Contate-me no email: caroline.simionato@outlook.com ...
 
-<div align="left">
-  <a href="https://github.com/carolinesouto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinesouto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesouto&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=carolinesouto&show_icons=true&theme=radical" />
+
+<img align="left" height="180em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesouto&layout=compact&theme=radical" /> 
+
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br><br>
   <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Carol-RStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Carol-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
@@ -23,7 +24,7 @@
    
   </div>
  
-    ##
+ ##
  
 <div> 
   <a href= "mailto:carolestudante2014@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
